@@ -252,8 +252,8 @@ c103d7a feat: add watchlist model, service, and endpoints
 3c0497a chore: add .gitignore for venv, pycache, and sqlite db
 ```
 
-> **Screenshot:** replace this line with a screenshot of `git log --oneline` run
-> on `feature/watchlist` (the commit hashes above will match your local copy).
+<img width="940" height="197" alt="git log" src="https://github.com/user-attachments/assets/f56a196f-abd0-4863-9dec-015c6db41c74" />
+
 
 ---
 
