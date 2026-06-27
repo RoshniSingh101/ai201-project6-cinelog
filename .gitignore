@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Flask / SQLite
+instance/
+*.db
+
+# Editor / OS
+.DS_Store
